@@ -1,4 +1,4 @@
-![portada](https://github.com/ironhack-datalabs/datamad1020-rev/blob/master/projects/W3-pipelines-project/portadaw3.jpg)
+![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.informatica.com%2Fresources%2Farticles%2Fwhat-is-etl.html&psig=AOvVaw2ZfRog84wKbotNJbnOxJjX&ust=1644051119808000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICqrvLX5fUCFQAAAAAdAAAAABAI)
 
 # Project: ETL
 
